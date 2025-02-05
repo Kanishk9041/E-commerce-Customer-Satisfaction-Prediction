@@ -62,14 +62,4 @@ This project analyzes customer satisfaction data using Python to identify key fa
 - Develop an interactive dashboard with Streamlit.
 - Integrate additional data sources for better insights.
 
-## 🤝 Contributing
-Contributions are welcome! Feel free to fork this repository and submit a pull request with your improvements.
-
-## 📧 Contact
-For any questions or suggestions, feel free to reach out:
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your Profile](https://www.linkedin.com/in/yourprofile)
-
----
-💡 **"Happy customers, successful business!"** 😊
 
